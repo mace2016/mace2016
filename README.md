@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mace2016
-- 👀 I’m interested in wood engeneering and fireprotection
-- 🌱 I’m currently learning LaTeX
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
